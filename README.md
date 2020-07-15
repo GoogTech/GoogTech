@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+</p>
+
 ### 👋 Hey Guys I'm GoogTech
 - 🌱 I’m currently learning about data structures and algorithms : *https://algorithm.show*
+
 
 ### 👨‍💻 Tech Stack
 
@@ -43,6 +48,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### 🔭 2020 Goal
+learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
+
+
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/ishacker_net)
 - [Bilibili](https://space.bilibili.com/364361791)
@@ -50,6 +60,5 @@ Here are some ideas to get you started:
 - [Personal Site](https://ishacker.net)
 
 > Wechat Official Account : `Goog Tech`
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
