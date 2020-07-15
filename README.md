@@ -1,7 +1,7 @@
-### Hey Guys I'm GoogTech 👋
+### 👋 Hey Guys I'm GoogTech
 - 🌱 I’m currently learning about data structures and algorithms : *https://algorithm.show*
 
-### Tech Stack
+### 👨‍💻 Tech Stack
 
 <table>
   <tbody>
@@ -42,5 +42,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ☕ Get In Touch
+- [Twitter](https://twitter.com/ishacker_net)
+- [Bilibili](https://space.bilibili.com/364361791)
+- [Youtube](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
+- [Personal Site](https://ishacker.net)
+
+> Wechat Official Account : `Goog Tech`
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
