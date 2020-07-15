@@ -12,8 +12,8 @@ I’m currently learning about data structures and algorithms : *https://algorit
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <span>Golang</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
       <td width="25%" align="center">
         <span>Java</span><br><br><br>
@@ -25,7 +25,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
       </td>
       <td width="25%" align="center">
         <span>Dream</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/google.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/google-icon.svg">
       </td>
     </tr>
       </tbody>
