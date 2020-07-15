@@ -3,7 +3,7 @@
 </p>
 
 ### 👋 Hey Guys I'm GoogTech
-- 🌱 I’m currently learning about data structures and algorithms : *https://algorithm.show*
+I’m currently learning about data structures and algorithms : *https://algorithm.show*
 
 
 ### 👨‍💻 Tech Stack
