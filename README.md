@@ -9,22 +9,22 @@ I’m currently learning about data structures and algorithms : *https://algorit
 ### 👨‍💻 Tech Stack
 <table>
   <tbody>
-    <tr valign="top">
+    <tr valign="center">
       <td width="25%" align="center">
-        <span>Golang</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
+        <!--<span>Golang</span><br><br><br> -->
+        <img height="32px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
       <td width="25%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <!--<span>Java</span><br><br><br> -->
+        <img height="32px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <!--<span>Python</span><br><br><br> -->
+        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>Dream</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/google-icon.svg">
+        <!--<span>Dream</span><br><br><br> -->
+        <img height="32px" src="https://cdn.svgporn.com/logos/google-icon.svg">
       </td>
     </tr>
       </tbody>
