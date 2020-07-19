@@ -5,6 +5,11 @@
 ### 👋 Hey Guys I'm GoogTech
 I’m currently learning about data structures and algorithms : *https://algorithm.show*
 
+<a href="https://github.com/yubuntu0109/leetcode-googtech">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech" />
+</a>
+
 
 ### 👨‍💻 Tech Stack
 
@@ -31,7 +36,9 @@ I’m currently learning about data structures and algorithms : *https://algorit
       </tbody>
 </table>
 
+
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
+
 
 <!--
 **YUbuntu0109/YUbuntu0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
