@@ -38,7 +38,8 @@ I’m currently learning about data structures and algorithms : *https://algorit
 </a>
 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
 
 
 <!--
