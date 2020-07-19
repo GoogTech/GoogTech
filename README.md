@@ -32,10 +32,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
 
 
 ### 👀 Active Repo
-<a href="https://github.com/yubuntu0109/leetcode-googtech">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech" />
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
 
 
 ### 🏆 Github Status
