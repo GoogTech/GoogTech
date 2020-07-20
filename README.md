@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 
 ### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
+learning data structures and algorithms recently becauese I am preparing for postgraduate entry. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
 ### ☕ Get In Touch
