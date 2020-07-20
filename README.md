@@ -22,7 +22,6 @@ I’m currently learning about data structures and algorithms : *https://algorit
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -62,10 +61,11 @@ learning data structures and algorithms recently becauese I am preparing for pos
 
 
 ### ☕ Get In Touch
-- [Twitter](https://twitter.com/ishacker_net)
-- [Bilibili](https://space.bilibili.com/364361791)
-- [Youtube](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
-- [Personal Site](https://ishacker.net)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yubuntu0109)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ishacker_net)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://space.bilibili.com/364361791)
+[![Website](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](https://ishacker.net/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://leetcode-cn.com/u/googtech/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ishacker.net@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-563D7C?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gentleman_0109@outlook.com)
+![isitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
