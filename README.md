@@ -32,34 +32,6 @@ I’m currently learning about data structures and algorithms : *https://algorit
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
 
 
-### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
-
-
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
-
-
-<!--
-**YUbuntu0109/YUbuntu0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-
-
 ### ☕ Get In Touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yubuntu0109)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ishacker_net)
@@ -68,4 +40,18 @@ learning data structures and algorithms recently becauese I am preparing for pos
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://leetcode-cn.com/u/googtech/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ishacker.net@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-563D7C?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gentleman_0109@outlook.com)
+
+
+### 👀 Active Repo
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
+
+
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
+
+
+### 🔭 2020 Goal
+learning data structures and algorithms recently becauese I am preparing for postgraduate entry. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+
+
 ![isitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
