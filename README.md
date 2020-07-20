@@ -1,12 +1,8 @@
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
-
 ### 👋 Hey Guys I'm GoogTech
-I’m currently learning about data structures and algorithms : *https://algorithm.show*
+I’m currently learning about data structures and algorithms : *https://algorithm.show* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<!--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'>-->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ### 👨‍💻 Languages and Tools
@@ -71,6 +67,5 @@ learning data structures and algorithms recently becauese I am preparing for pos
 - [Youtube](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
 - [Personal Site](https://ishacker.net)
 
-> Wechat Official Account : `Goog Tech`
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
