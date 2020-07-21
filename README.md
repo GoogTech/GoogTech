@@ -20,8 +20,8 @@ I’m currently learning about data structures and algorithms : *https://algorit
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -35,6 +35,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
 ### ☕ Get In Touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yubuntu0109)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ishacker_net)
+[![WeChat](https://img.shields.io/badge/-WeChat-gray?style=flat&logo=WeChat&link=https://github.com/hritik5102)](https://ishacker.net/about/)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://space.bilibili.com/364361791)
 
 [![Website](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](https://ishacker.net/)
