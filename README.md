@@ -14,7 +14,17 @@ learning data structures and algorithms recently becauese I am preparing for pos
 
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
+<a href="">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=YUbuntu0109"/>
+    </p>
+</a>
+<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
+<a align="center" href="">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUbuntu0109&layout=compact" alt="languages" height="165">
+</p>
 
 
 ### ☕ Get In Touch
