@@ -11,6 +11,7 @@ learning data structures and algorithms recently becauese I am preparing for pos
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=000days)](https://github.com/YUbuntu0109/000days)
 
 
 ### 🏆 Github Status
