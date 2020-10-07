@@ -13,7 +13,7 @@ learning data structures and algorithms recently becauese I am preparing for pos
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=000days)](https://github.com/YUbuntu0109/000days)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CTFlag&repo=CTFlag-book)](https://github.com/CTFlag/CTFlag-book)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CTFlag&repo=CTFlag.github.io)](https://github.com/CTFlag/CTFlag.github.io)
 
 
 ### 🏆 Github Status
