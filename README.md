@@ -3,7 +3,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
 and persist in daily plans everyday : *https://000days.com* <img src="https://media.giphy.com/media/kceydZaFue5n4kzhWB/giphy.gif" width="30"> please join our [organization](https://github.com/CTFlag) if you interested in `CTF` or wanna to be a hacker : *https://ctflag.org* <img src="https://media.giphy.com/media/kglwHpy9SexXV8X48W/giphy.gif" width="30">
 
 <!--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'>-->
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
 
 ### 🔭 2020 Goal
@@ -14,6 +14,7 @@ learning data structures and algorithms recently becauese I am preparing for pos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=000days)](https://github.com/YUbuntu0109/000days)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CTFlag&repo=CTFlag.github.io)](https://github.com/CTFlag/CTFlag.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=studynote.life)](https://github.com/YUbuntu0109/studynote.life)
 
 
 ### 🏆 Github Status
