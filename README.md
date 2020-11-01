@@ -1,4 +1,7 @@
 ### 👋 Hey Guys I'm GoogTech
+
+> `📖studying, 💪excising and learning 🎸guitar wow so busy recently~`
+
 I’m currently learning about data structures and algorithms : *https://algorithm.show* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 and persist in daily plans everyday : *https://000days.com* <img src="https://media.giphy.com/media/kceydZaFue5n4kzhWB/giphy.gif" width="30"> please join our [organization](https://github.com/CTFlag) if you interested in `CTF` or wanna to be a hacker : *https://ctflag.org* <img src="https://media.giphy.com/media/kglwHpy9SexXV8X48W/giphy.gif" width="30"> and study notes about everything what I want to learn in the daily life : *https://course.studynote.life* <img src="https://media.giphy.com/media/kHsNGykRSXwhPw4Q7M/giphy.gif" width="30">
 
