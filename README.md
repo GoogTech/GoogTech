@@ -3,7 +3,7 @@
 
 I’m currently learning about data structures and algorithms : *https://algorithm.show* and persist in daily plans everyday : *https://000days.com* please join our [organization](https://github.com/CTFlag) if you interested in `CTF` or wanna to be a hacker : *https://ctflag.org* and study notes about everything what I want to learn in the daily life : *https://course.studynote.life*
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'>
+<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'> -->
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
 
@@ -17,9 +17,6 @@ I’m currently learning about data structures and algorithms : *https://algorit
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=000days)](https://github.com/YUbuntu0109/000days)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=iblog)](https://github.com/YUbuntu0109/iblog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=course.studynote.life)](https://github.com/YUbuntu0109/course.studynote.life)
 
 
 ### 🏆 Github Status
