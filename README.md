@@ -3,7 +3,7 @@
 
 I’m currently learning about data structures and algorithms : *https://algorithm.show* and persist in daily plans everyday : *https://000days.com* please join our [organization](https://github.com/CTFlag) if you interested in `CTF` or wanna to be a hacker : *https://ctflag.org* and study notes about everything what I want to learn in the daily life : *https://course.studynote.life*
 
-<img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='333'>
+<img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'> -->
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
