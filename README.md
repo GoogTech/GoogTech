@@ -1,15 +1,18 @@
 ### 👋 Hey Guys I'm GoogTech
 
 
-I’m currently learning about data structures and algorithms : *https://algorithm.show* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-and persist in daily plans everyday : *https://000days.com* <img src="https://media.giphy.com/media/kceydZaFue5n4kzhWB/giphy.gif" width="30"> please join our [organization](https://github.com/CTFlag) if you interested in `CTF` or wanna to be a hacker : *https://ctflag.org* <img src="https://media.giphy.com/media/kglwHpy9SexXV8X48W/giphy.gif" width="30"> and study notes about everything what I want to learn in the daily life : *https://course.studynote.life* <img src="https://media.giphy.com/media/kHsNGykRSXwhPw4Q7M/giphy.gif" width="30">
+I’m currently learning about data structures and algorithms : *https://algorithm.show* and persist in daily plans everyday : *https://000days.com* please join our [organization](https://github.com/CTFlag) if you interested in `CTF` or wanna to be a hacker : *https://ctflag.org* and study notes about everything what I want to learn in the daily life : *https://course.studynote.life*
 
-<!--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'>-->
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'>
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
 
 ### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+* learn ctf
+* learn guitar
+* build six-pack abs
+* learn golang language
+* learn data structures and algorithms
 
 
 ### 👀 Active Repo
