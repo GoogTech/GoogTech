@@ -13,7 +13,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
 * build six-pack abs
 * learn golang language
 * learn data structures and algorithms
-* learn machine learning with tensorflow
+* learn deep learning with tensorflow
 
 
 ### 👀 Active Repo
@@ -39,7 +39,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
 
 ### ☕ Get In Touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yubuntu0109)
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-pink?style=flat&logo=Tensorflow&logoColor=white)](https://anaconda.org/googtech)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-pink?style=flat&logo=Tensorflow&logoColor=white)](https://tensorflow.studynote.life)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-cyan?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/story/13689597)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ishacker_net)
 [![WeChat](https://img.shields.io/badge/-WeChat-gray?style=flat&logo=WeChat&link=https://github.com/hritik5102)](https://ishacker.net/about/)
