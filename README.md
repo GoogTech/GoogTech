@@ -10,6 +10,7 @@ I’m currently learning about data structures and algorithms : *https://algorit
 ### 🔭 2020 Goal
 * learn ctf
 * learn guitar
+* learn raspberry pi
 * build six-pack abs
 * learn golang language
 * learn data structures and algorithms
