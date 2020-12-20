@@ -1,6 +1,6 @@
 ### 👋 Hey Guys I'm GoogTech
 
-I’m currently learning about data structures and algorithms : *https://algorithm.show*. Please join our [`CTFlag Org`](https://github.com/CTFlag) if you interested in `CTF` or wanna to be a hacker : *https://ctflag.org* and welcome you join our [`Golang Family`](https://github.com/google-golang) : *https://golanger.org*. Study notes about everything what I want to learn in the daily life : *https://studynote.life*
+I’m currently learning about data structures and algorithms : *https://algorithm.show*. Please join our [`CTFlag Org`](https://github.com/CTFlag) if you interested in `CTF` or wanna to be a hacker : *https://ctflag.org* and welcome you join our [`Golang Family`](https://github.com/google-golang) : *https://golanger.org* or [`RaspberryPI Family`](https://github.com/raspberry-pi-org). Study notes about everything what I want to learn in the daily life : *https://studynote.life*
 
 <img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'> -->
