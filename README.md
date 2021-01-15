@@ -17,7 +17,7 @@ I’m currently learning about `data structures and algorithms` : *https://algor
 * learn deep learning with tensorflow
 
 
-### 🤗 Organizer
+### 🤗 Organization founder
 * CTF Organization : *https://ctflag.org*
 * Golang Organization : *https://golanger.org*
 * RaspberryPi Organization : *https://raspi.website*
