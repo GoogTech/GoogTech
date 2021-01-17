@@ -1,5 +1,5 @@
 ### 👋 Hey Guys I'm GoogTech
-> 🎸 prepare for the postgraduate examination. . . so busy bro. . .
+> 🎸 prepare for the postgraduate examination. . . so busy and no coding bro. . .
 
 <img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'> -->
@@ -25,19 +25,19 @@
 ### 🏆 Github Status
 <a href="">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=YUbuntu0109"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=GoogTech"/>
     </p>
 </a>
 <!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
 <a align="center" href="">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUbuntu0109&layout=compact" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=GoogTech&show_icons=true" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoogTech&layout=compact" alt="languages" height="165">
 </p>
 
 
 ### ☕ Get In Touch
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yubuntu0109)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GoogTech)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-pink?style=flat&logo=Tensorflow&logoColor=white)](https://tensorflow.studynote.life)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-cyan?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/story/13689597)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ishacker_net)
@@ -49,4 +49,4 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-563D7C?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gentleman_0109@outlook.com)
 
 
-![isitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
+![isitors](https://visitor-badge.glitch.me/badge?page_id=GoogTech.GoogTech)
