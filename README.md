@@ -1,5 +1,5 @@
 ### 👋 Hey Guys I'm GoogTech
-> 🎸 prepare for the postgraduate examination, so busy and no coding bro. . .
+> [>> My Personal Summary Of 2020](https://ishacker.net/2020/11/26/嘿集美们-好久不见想我了嘛/)
 
 <img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'> -->
