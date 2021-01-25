@@ -44,9 +44,7 @@
 [![WeChat](https://img.shields.io/badge/-WeChat-gray?style=flat&logo=WeChat&link=https://github.com/hritik5102)](https://ishacker.net/about/)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://space.bilibili.com/364361791)
 [![Website](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](https://ishacker.net/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://leetcode-cn.com/u/googtech/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ishacker.net@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-563D7C?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gentleman_0109@outlook.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-c14438?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://leetcode-cn.com/u/googtech/)
 
 
 ![isitors](https://visitor-badge.glitch.me/badge?page_id=GoogTech.GoogTech)
