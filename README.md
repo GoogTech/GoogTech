@@ -29,13 +29,17 @@
 
 
 ### 🏆 Github Status
+<!-- 
 <a href="">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=GoogTech"/>
     </p>
 </a>
+-->
+
 <!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
-<a align="center" href="">
+<a align="center" href=""> 
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GoogTech&show_icons=true" alt="my github stats" width="420"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoogTech&layout=compact" alt="languages" height="165">
