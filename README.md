@@ -44,13 +44,12 @@
 
 ### ☕ Get In Touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GoogTech)
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-pink?style=flat&logo=Tensorflow&logoColor=white)](https://tensorflow.studynote.life)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-cyan?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/story/13689597)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ishacker_net)
-[![WeChat](https://img.shields.io/badge/-WeChat-gray?style=flat&logo=WeChat&link=https://github.com/hritik5102)](https://ishacker.net/about/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-FCA121?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/in/googtech)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://space.bilibili.com/364361791)
-[![Website](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](https://ishacker.net/)
+[![Youtube](https://img.shields.io/badge/-Youtube-pink?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-c14438?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://leetcode-cn.com/u/googtech/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-cyan?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/story/13689597)
 
 
 ![isitors](https://visitor-badge.glitch.me/badge?page_id=GoogTech.GoogTech)
