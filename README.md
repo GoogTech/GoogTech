@@ -1,5 +1,5 @@
 ### 👋 Hey Guys I'm GoogTech
-> [>> My Personal Summary Of 2020](https://googtech.io/2020/11/26/嘿集美们-好久不见想我了嘛/)
+> [My Personal Summary Of 2020](https://googtech.io/2020/11/26/嘿集美们-好久不见想我了嘛/)
 
 <img align='right' src='https://algorithm.show/namecard.png' width='555'>
 <!-- <img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'> -->
@@ -7,17 +7,22 @@
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
 
-### 🔭 2020 Goal
-* learn ctf
-* learn guitar
-* learn raspberry pi
-* build six-pack abs
-* learn golang language
-* learn data structures and algorithms
-* learn deep learning with tensorflow
+### 🔭 Goal
+#### 2020
+* [ ] learn ctf 
+* [x] learn guitar 
+* [x] learn raspberry pi 
+* [x] build six-pack abs 
+* [x] learn golang language 
+* [ ] learn deep learning with tensorflow
+
+#### 2021
+* [x] learn data structures and algorithms
+* [ ] prepare for the postgraduate examination
 
 
-### 🤗 Organization founder
+### 🌐 Website
+* Algorithm : *https://algorithm.show*
 * CTF Organization : *https://ctflag.org*
 * Golang Organization : *https://golanger.org*
 * RaspberryPi Organization : *https://raspi.website*
