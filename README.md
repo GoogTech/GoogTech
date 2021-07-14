@@ -22,6 +22,7 @@
 
 
 ### 🌐 Website
+* **CSCourse** : *https://cscourse.cn*
 * Algorithm : *https://algorithm.show*
 * CTF Organization : *https://ctflag.org*
 * Golang Organization : *https://golanger.org*
