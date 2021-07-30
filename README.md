@@ -22,7 +22,7 @@
 
 
 ### 🌐 Website
-* **CSCourse** : *https://cscourse.cn*
+* **CSCourse : *https://cscourse.cn***
 * Algorithm : *https://algorithm.show*
 * CTF Organization : *https://ctflag.org*
 * Golang Organization : *https://golanger.org*
@@ -57,4 +57,6 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-cyan?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/story/13689597)
 
 
+![GitHub followers](https://img.shields.io/github/followers/GoogTech)
+![GitHub User's stars](https://img.shields.io/github/stars/GoogTech)
 ![isitors](https://visitor-badge.glitch.me/badge?page_id=GoogTech.GoogTech)
