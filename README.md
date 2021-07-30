@@ -8,25 +8,28 @@
 
 
 ### 🔭 Goal
-#### 2020
+<details>
+<summary>2020</summary>
+    
 * [ ] learn ctf 
 * [x] learn guitar 
 * [x] learn raspberry pi 
 * [x] build six-pack abs 
 * [x] learn golang language 
 * [ ] learn deep learning with tensorflow
-
-#### 2021
+</details>
+    
+<details>
+<summary>2021</summary>
+    
 * [x] learn data structures and algorithms
 * [ ] prepare for the postgraduate examination
-
+</details>
 
 ### 🌐 Website
 * **CSCourse : *https://cscourse.cn***
 * Algorithm : *https://algorithm.show*
 * CTF Organization : *https://ctflag.org*
-* Golang Organization : *https://golanger.org*
-* RaspberryPi Organization : *https://raspi.website*
 
 
 ### 🏆 Github Status
@@ -41,9 +44,9 @@
 <!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
 <!-- <a align="center" href="">  -->
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=GoogTech&show_icons=true" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoogTech&layout=compact" alt="languages" height="165">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoogTech&layout=compact" alt="languages" height="165"> -->
 </p>
 
 
