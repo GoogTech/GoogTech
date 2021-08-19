@@ -53,7 +53,7 @@
 
 ### ☕ Get In Touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GoogTech)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ishacker_net)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/googtech_)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-FCA121?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/in/googtech)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://space.bilibili.com/364361791)
 [![Youtube](https://img.shields.io/badge/-Youtube-pink?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
