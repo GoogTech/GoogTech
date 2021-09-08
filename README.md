@@ -9,7 +9,7 @@
 
 ### 🌐 Site
 * blog : [blog.goog.tech](https://blog.goog.tech)
-* cs-course note : [note.goog.tech](https://note.goog.tech)
+* course note : [note.goog.tech](https://note.goog.tech)
 * leetcode note : [leetcode.goog.tech](https://leetcode.goog.tech)
 
 ### 🔭 Goal
