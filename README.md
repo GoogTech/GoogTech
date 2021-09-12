@@ -8,9 +8,9 @@
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
 ### 🌐 Site
-* blog : [blog.goog.tech](https://blog.goog.tech)
-* course note : [note.goog.tech](https://note.goog.tech)
-* leetcode note : [leetcode.goog.tech](https://leetcode.goog.tech)
+* blog : [goog.tech/blog](https://goog.tech/blog)
+* course note : [goog.tech/note](https://goog.tech/note)
+* leetcode note : [goog.tech/leetcode](https://goog.tech/leetcode)
 
 ### 🔭 Goal
 <details>
