@@ -1,6 +1,5 @@
 ### 👋 Hey Guys I'm GoogTech
-* [The No-Code Daily Life](https://www.goog.tech/?view=snapshot)
-* [My Personal Summary Of 2020](https://blog.goog.tech/2020/11/26/嘿集美们-好久不见想我了嘛/)
+* [my personal summary of 2020](https://goog.tech/blog/2020/11/26/嘿集美们-好久不见想我了嘛/)
 
 <!-- <img align='right' src='https://algorithm.show/namecard.png' width='555'> -->
 <!-- <img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'> -->
