@@ -27,8 +27,15 @@
 <summary>2021</summary>
     
 * [x] learn data structures and algorithms
-* [ ] prepare for the postgraduate examination
+* [x] prepare for the postgraduate examination
 </details>
+
+<details>
+<summary>2022</summary>
+    
+* [ ] better than before
+</details>
+
 
 <!-- 
 ### 🌐 Website
