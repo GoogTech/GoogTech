@@ -8,7 +8,8 @@
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
 ### 🌐 Site
-* blog : [goog.tech/blog](https://goog.tech/blog)
+* about me : [goog.tech](https://goog.tech)
+* daily blog : [goog.tech/blog](https://goog.tech/blog)
 * course note : [goog.tech/note](https://goog.tech/note)
 * leetcode note : [goog.tech/leetcode](https://goog.tech/leetcode)
 
