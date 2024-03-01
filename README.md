@@ -1,18 +1,23 @@
+<!--
 ### 👋 Hey Guys I'm GoogTech
 * [my personal summary of 2020](https://goog.tech/blog/2020/11/26/嘿集美们-好久不见想我了嘛/)
 * [my personal summary of 2021](https://goog.tech/#timelines)
+-->
 
 <!-- <img align='right' src='https://algorithm.show/namecard.png' width='555'> -->
-<a href="https://goog.tech"><img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'></a>
+<!-- <a href="https://goog.tech"><img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'></a> -->
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'> -->
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
+<!--
 ### 🌐 Site
 * about me : [goog.tech](https://goog.tech)
 * daily blog : [goog.tech/blog](https://goog.tech/blog)
 * course note : [goog.tech/note](https://goog.tech/note)
 * leetcode note : [goog.tech/leetcode](https://goog.tech/leetcode)
+-->
 
+<!--
 ### 🔭 Goal
 <details>
 <summary>2020</summary>
@@ -36,6 +41,7 @@
     
 * [ ] better than before
 </details>
+-->
 
 
 <!-- 
@@ -44,6 +50,7 @@
 * Algorithm : *https://algorithm.show*
 * CTF Organization : *https://ctflag.org*
 -->
+
 
 ### 🏆 Github Status
 <!-- 
@@ -63,6 +70,7 @@
 </p>
 
 
+<!--
 ### ☕ Get In Touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GoogTech)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/googtech_)
@@ -76,3 +84,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/GoogTech)
 ![GitHub User's stars](https://img.shields.io/github/stars/GoogTech)
 ![isitors](https://visitor-badge.glitch.me/badge?page_id=GoogTech.GoogTech)
+-->
+
+> hack plan in 2024, let's get started !
