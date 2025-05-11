@@ -1,4 +1,4 @@
-## 👋 Join Us !
+## 👋 Join US
 
 <a rel="hackorg-website" href="https://github.com/TheHackOrg">
    	<img src="https://hackorg.com/hackorg-github-logo-black-transparent.png" width="555">
@@ -94,4 +94,5 @@
 ![isitors](https://visitor-badge.glitch.me/badge?page_id=GoogTech.GoogTech)
 -->
 
-> hack plan in 2024, let's get started !
+## 🧑‍💻 Hacking
+<img src="https://tryhackme-badges.s3.amazonaws.com/hackhuang.png" alt="Your Image Badge" />
