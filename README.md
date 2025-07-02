@@ -93,6 +93,3 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/GoogTech)
 ![isitors](https://visitor-badge.glitch.me/badge?page_id=GoogTech.GoogTech)
 -->
-
-## 🧑‍💻 Hacking
-<img src="https://tryhackme-badges.s3.amazonaws.com/hackhuang.png" alt="Your Image Badge" />
